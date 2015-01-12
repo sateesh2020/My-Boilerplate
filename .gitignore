@@ -1,0 +1,9 @@
+# My-Boilerplate
+# @author Satheesh Valluru
+
+node_modules
+.DS_Store
+.tmp
+.sass-cache
+style.min.css
+scripts.min.js
