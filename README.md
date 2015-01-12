@@ -9,7 +9,7 @@ Here are some of the main features of My-Boilerplate:
 * Baseline HTML5 features, DNS prefetching, responsive meta
 * Encourages one-file CSS/JS in the view (HTML) for performance
 * Includes jQuery CDN and relative fallback
-* Inclued Angular Js CDN
+* Includes Angular Js CDN
 * Includes Modernizr and HTML5 Shiv
 * Open source workflow with Grunt.js running on Node.js
 * Two `.command` (Mac OS X) and `.bat` (Windows) files for double-click command-line execution of My-Boilerplate
